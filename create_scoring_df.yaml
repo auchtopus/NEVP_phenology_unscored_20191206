@@ -1,0 +1,10 @@
+# Hello!
+# This is the config file to build the scoring directory
+---
+name: tony_state_verification
+ # directory with the images to be scored
+input_dir: '/home/ajj38/project/Tony_Herbarium/Data/Cropped/patrick_scoring_dataset_2_images/images'
+ # directory for craeted scoring _df
+df_output_path: '/home/ajj38/project/Tony_Herbarium/Data/Cropped/patrick_scoring_dataset_2_images/patrick_scoring_dataset_2.csv'
+
+

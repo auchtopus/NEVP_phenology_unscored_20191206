@@ -1,0 +1,15 @@
+# Hello!
+# This is the config file for scoring from a directory
+---
+name: tony_state_verification
+ # Number of images to be verified
+num_images: 100
+ # directory with the images to be scored
+image_dir: '/gpfs/project/dollar/ajj38/shared/outliers'
+ # parent directory of places images are to be moved 
+output_dir: 
+ # directory for any logs
+log_path: '/gpfs/project/dollar/ajj38/shared/patrick_scoring/patrick_scoring.csv'
+ # directory for final csv report
+report_dir: 
+
